@@ -4,4 +4,3 @@ server:
 spring:
   application:
     name: service-hi
-foo: foo version 21
